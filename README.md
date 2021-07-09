@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a :school: college student majoring in CS. I love coding and literature. 
+- Currentlym I'm researching in **RL, NTK, ML and ditributed Database**. If you're interested in these things, please feel free to discuss with me.
+- [My Blog](https://frankccccc.github.io/blog/) is online. Wellcome to visit~~
